@@ -1,4 +1,3 @@
-# signature-verification
 
 # ✍️ Signature Verification using Siamese Neural Networks
 
